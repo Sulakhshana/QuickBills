@@ -1,9 +1,9 @@
-# QuickBills
+# QuickBills – Invoice Generator Web App
 
-A web application for generating invoices, built using React, provides an efficient and user-friendly solution for businesses to create and manage invoices. With its intuitive interface, users can easily input customer information, add items and services, and calculate totals with automatic tax and discount calculations. The app allows users to print invoices directly from the app, streamlining the invoicing process.
+**QuickBills** is a web application for generating invoices, built using React. It offers an efficient and user-friendly solution for businesses to create and manage invoices. With its intuitive interface, users can input customer details, add items and services, and automatically calculate totals with tax and discounts. The app also supports direct invoice printing, streamlining the entire invoicing process.
 
-### Live Demo
-quick-bills-sulakhshana.vercel.app/
+---
 
+## 🔗 Live Link
 
-
+-  **Live Demo**: [https://quick-bills-sulakhshana.vercel.app/](https://quick-bills-sulakhshana.vercel.app/)
